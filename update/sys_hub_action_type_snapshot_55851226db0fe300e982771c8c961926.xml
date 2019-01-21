@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description> Get geographic data from a public IP address.</description>
+        <internal_name>get_geographic_data_from_ip</internal_name>
+        <label_cache>[{"name":"{{action.ip_address}}","label":"action➛IP address","type":"action","ref":""}]</label_cache>
+        <master>true</master>
+        <name>Get Geographic Data from IP</name>
+        <outputs/>
+        <parent_action display_value="Get Geographic Data from IP">4f22ded2db43e300e982771c8c96195a</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-20 03:02:35</sys_created_on>
+        <sys_id>55851226db0fe300e982771c8c961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Geographic Data from IP</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_84969_ipinfo_spo">61e0125adb03e300e982771c8c9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">61e0125adb03e300e982771c8c9619ed</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_55851226db0fe300e982771c8c961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-20 03:02:35</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=55851226db0fe300e982771c8c961926"/>
+    <sys_variable_value action="delete_multiple" query="document_key=55851226db0fe300e982771c8c961926"/>
+</record_update>

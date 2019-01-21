@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description> Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 08:35:26</sys_created_on>
+        <sys_id>df18ded2db43e300e982771c8c96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_84969_ipinfo_spo">61e0125adb03e300e982771c8c9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">61e0125adb03e300e982771c8c9619ed</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_df18ded2db43e300e982771c8c96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 08:35:26</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=df18ded2db43e300e982771c8c96196a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=df18ded2db43e300e982771c8c96196a"/>
+</record_update>
